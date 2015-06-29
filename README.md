@@ -1,5 +1,5 @@
 # lets-git-going
-
+This was written by [Liza Ramo](http://github.com/LizaLemons), my mentor at the Global Fund for Women's Ignite hackathon.  Thanks Liza!
 ##Using GitHub:
 
 - Almost all developers use GitHub every day on the job to collaborate with teammates 
