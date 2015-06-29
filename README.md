@@ -5,8 +5,8 @@ This was written by [Liza Ramo](http://github.com/LizaLemons), my mentor at the 
 - Almost all developers use GitHub every day on the job to collaborate with teammates 
 - You guys are developers! Time to learn Git & GitHub! 
 
-Remember the picture on the whiteboard! 
-https://twitter.com/LizaRamo/status/566672394165964800
+Remember the picture on the whiteboard:
+![alt tag](https://pbs.twimg.com/media/B905ij-IEAAse_B.jpg)
 
 ###Steps: 
 1. Make changes to your code in Sublime Text
